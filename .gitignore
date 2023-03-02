@@ -1,0 +1,12 @@
+# Mac OS 
+.DS_Store
+
+# Meshes
+*.vtk
+
+# CAD 
+*.step
+*.stp
+
+# Python
+.pyc
