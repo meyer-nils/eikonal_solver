@@ -15,3 +15,22 @@
 # Data files
 data
 *.npz
+
+# Moldflow
+*.sdy
+*.CIP 
+*.die 
+*.err
+*.fpo
+*.of1
+*.of2
+*.oo1
+*.out
+*.rfn
+*.mpi
+*.lck
+*.lci
+*.lsp
+*.pat
+*.log
+*.xml
