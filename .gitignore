@@ -3,6 +3,7 @@
 
 # Meshes
 *.vtk
+*.vtu
 
 # CAD 
 *.step
