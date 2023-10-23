@@ -6,8 +6,8 @@ The solution of the eikonal equation $u(\mathbf{x})$ can be interpreted as the s
 
 $$
     \begin{aligned}
-    |\nabla u(\mathbf{x}) | &= \frac{1}{f(\mathbf{x})} \quad \mathbf{x} \in \Omega  \\
-    u(\mathbf{x}) &= u_0(\mathbf{x}) \quad \mathbf{x} \in \partial \Omega , 
+    |\nabla \phi(\mathbf{x}) | &= \frac{1}{f(\mathbf{x})} \quad \mathbf{x} \in \Omega  \\
+    \phi(\mathbf{x}) &= \phi^0(\mathbf{x}) \quad \mathbf{x} \in \partial \Omega , 
     \end{aligned}
 $$
 
